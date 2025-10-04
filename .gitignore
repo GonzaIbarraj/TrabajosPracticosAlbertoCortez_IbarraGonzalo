@@ -1,0 +1,4 @@
+*.class
+Traza2/target/classes/org/example/entidades/ArticuloManufacturado$ArticuloManufacturadoBuilderImpl.class
+Traza2/target/classes/org/example/entidades/ArticuloManufacturadoDetalle$ArticuloManufacturadoDetalleBuilder.class
+Traza2/target/classes/org/example/entidades/ArticuloManufacturadoDetalle$ArticuloManufacturadoDetalleBuilderImpl.class
